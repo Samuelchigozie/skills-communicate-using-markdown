@@ -16,3 +16,17 @@ $ cd ..
 cat text.txt
 print "Interesting"
 ```
+
+#### Adding a task list
+- [x] Making a repo
+- [x] cloning a repo
+- [x] pull request
+- [ ] GitHub actions
+
+
+
+
+
+
+
+
